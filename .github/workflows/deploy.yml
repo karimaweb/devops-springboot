@@ -38,3 +38,4 @@ jobs:
           app-name: TON_APP_AZURE
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
           images: karimaweb/app-devops:latest
+          # test
